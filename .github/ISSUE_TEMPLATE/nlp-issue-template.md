@@ -1,15 +1,6 @@
 ---
-name: NLP Issue-Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: NLP_issue template
-about: NLP 이슈 템플릿입니다❗️
+name: KHUDA_NLP 심화트랙 이슈 template
+about: NLP 심화트랙 이슈 템플릿입니다❗️
 title: ''
 labels: ''
 assignees: ''
